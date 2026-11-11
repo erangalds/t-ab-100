@@ -3520,9 +3520,9 @@ Microsoft designs these questions specifically to test whether a Solution Archit
 
 ---
 
-## Q31
+## Q33
 
-![Q31](/question-images/q1-50/q31.png)
+![Q31](/question-images/q1-50/q33.png)
 
 ### Answer
 
